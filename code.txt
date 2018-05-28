@@ -6,3 +6,4 @@ add one line
 one more line in master
 add one more line
 smart
+edit in github
